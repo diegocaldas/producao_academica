@@ -12,7 +12,16 @@ Todos os trabalhos disponíveis neste repositório estão protegidos pela licen�
 
 ## Como usar
 
-Você pode clonar este repositório usando o seguinte comando Git:
+Abra os arquivos de seu interesse e clique na opção de download no canto superior do visualizador de PDF:
+
+| Ano  | Curso         | Instituição         | Título           | Link                  |
+|------|---------------|---------------------|----------------|-----------------------|
+| 2007 | Processamento de Dados    | FATEC-SP      | Um ponto de vista humanista sobre a tecnologia  | [tecnologia.pdf](https://github.com/diegocaldas/producao_academica/blob/main/monografiaFinal.pdf)  |
+| 2016 | Pedagogia    | UNIFESP      | História da Não-Violência Ativa em São Paulo   | [não-violência.pdf](https://github.com/diegocaldas/producao_academica/blob/main/monografiahistorianaoviolencia_online.pdf) |
+
+Neste exemplo:
+
+Se preferir pode clonar este repositório usando o seguinte comando Git:
 
 ```bash
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
@@ -21,4 +30,4 @@ git clone https://github.com/seu-usuario/nome-do-repositorio.git
 
 ## Contato
 
-Para qualquer dúvida, sugestão ou pedido de remoção, sinta-se à vontade para entrar em contato comigo.
+Para qualquer dúvida ou sugestão, sinta-se à vontade para entrar em contato comigo.
